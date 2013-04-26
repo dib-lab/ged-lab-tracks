@@ -1,0 +1,5 @@
+hub GED Hub
+shortLabel GED Hub
+longLabel MSU GED Genome Informatics Hub
+genomesFile genomes.txt
+email ctb@msu.edu

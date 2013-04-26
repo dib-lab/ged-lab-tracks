@@ -1,0 +1,5 @@
+track gene_models
+bigDataUrl protein_coding.sorted.bb
+shortLabel Gene models
+longLabel Gene models
+type bigBed
